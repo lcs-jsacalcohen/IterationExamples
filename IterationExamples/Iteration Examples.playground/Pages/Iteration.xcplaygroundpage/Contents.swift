@@ -15,7 +15,6 @@ for value in 1...4 {
     sum = sum + value
 }
 sum         // equals 10 at this point
-
 /*:
  ### Skipping values in a range
  The *stride* function can be combined with a *for-in* loop to move through a range of numbers, while also skipping some values.
@@ -25,7 +24,7 @@ sum         // equals 10 at this point
  For example, here how to use this type of loop to create a ladder image.
  */
 // Create canvas
-let canvas = Canvas(width: 300, height: 400)
+let canvas = Canvas(width: 320, height: 400)
 
 // Line width
 canvas.defaultLineWidth = 5
@@ -58,3 +57,4 @@ print("Blast off!")
  The code below is necessary to see results in the Assistant Editor at right. Please do not remove.
  */
 PlaygroundPage.current.liveView = canvas.imageView
+

@@ -3,9 +3,20 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "#CharacterRangeLen=0&amp;CharacterRangeLoc=943&amp;EndingColumnNumber=11&amp;EndingLineNumber=30&amp;StartingColumnNumber=5&amp;StartingLineNumber=30&amp;Timestamp=508343260.632409"
+         documentLocation = "file:///Users/jsacalcohen/Documents/Computer%20Science/IterationExamples/IterationExamples/Iteration%20Examples.playground/Pages/Exercise.xcplaygroundpage#CharacterRangeLen=168&amp;CharacterRangeLoc=943&amp;EndingColumnNumber=0&amp;EndingLineNumber=37&amp;StartingColumnNumber=0&amp;StartingLineNumber=31&amp;Timestamp=529354785.409758"
          lockedSize = "{334, 694}"
          selectedRepresentationIndex = "1"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jsacalcohen/Documents/Computer%20Science/IterationExamples/IterationExamples/Iteration%20Examples.playground/Pages/Exercise.xcplaygroundpage#CharacterRangeLen=6&amp;CharacterRangeLoc=999&amp;EndingColumnNumber=11&amp;EndingLineNumber=34&amp;StartingColumnNumber=5&amp;StartingLineNumber=34&amp;Timestamp=529354785.409973"
+         lockedSize = "{205, 245}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jsacalcohen/Documents/Computer%20Science/IterationExamples/IterationExamples/Iteration%20Examples.playground/Pages/Exercise.xcplaygroundpage#CharacterRangeLen=1&amp;CharacterRangeLoc=993&amp;EndingColumnNumber=0&amp;EndingLineNumber=34&amp;StartingColumnNumber=5&amp;StartingLineNumber=33&amp;Timestamp=529354785.410084"
+         selectedRepresentationIndex = "2"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
    </TimelineItems>
